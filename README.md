@@ -15,8 +15,8 @@ If it is of any use to you, enjoy.
 Documentation
 -------------
 
-You can find official documentation at:
+Official documentation can be found at:
 
 - Tutorials: http://ezcomponents.org/docs/tutorials/Workflow
-- API: Coming Soon...
+- API: http://ezcomponents.org/docs/api
 
