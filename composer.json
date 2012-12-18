@@ -1,5 +1,5 @@
 {
-    "name": "belsym\ezcomponents-workflow",
+    "name": "belsym/ezcomponents-workflow",
     "type": "library",
     "description": "ezComponents Workflow Component",
     "keywords:": [],
@@ -9,7 +9,6 @@
         "php":">=5.2.1"
     },
     "target-dir":"belsym/ezComponents/Workflow",
-    "minimum-stability":"dev",
     "extra":{
         "branch-alias": {
             "dev-master": "1.4.x-dev"
