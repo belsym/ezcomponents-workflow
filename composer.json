@@ -8,7 +8,6 @@
     "require": {
         "php":">=5.2.1"
     },
-    "target-dir":"belsym/ezComponents/Workflow",
     "minimum-stability":"dev",
     "extra":{
         "branch-alias": {

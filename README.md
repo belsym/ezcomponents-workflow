@@ -35,10 +35,15 @@ Only instructions for inclusion of this library using composer are provided. Of 
         }
     ],
     "require": {
-        "belsym\ezcomponents-workflow": "1.4.*"
+        "belsym\ezcomponents-workflow": "1.4.*@dev"
     }
 }
 ```
+
+run `composer.phar update` and the library should update.
+
+**NOTE** the `@dev` in the version is necessary. See [here](https://groups.google.com/forum/#!topic/composer-dev/_g3ASeIFlrc/discussion) for more details.
+
 
 The library will be installed under your default vendors directory under `belsym/ezComponents/Workflow`
 
