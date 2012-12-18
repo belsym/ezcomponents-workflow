@@ -1,0 +1,18 @@
+{
+    "name": "belsym\ezcomponents-workflow",
+    "type": "library",
+    "description": "ezComponents Workflow Component",
+    "keywords:": [],
+    "homepage": "http://ezcomponents.org/introduction/overview#workflow",
+    "license": "BSD [http://ezcomponents.org/introduction/license]",
+    "require": {
+        "php":">=5.2.1"
+    },
+    "target-dir":"belsym/ezComponents/Workflow",
+    "minimum-stability":"dev",
+    "extra":{
+        "branch-alias": {
+            "dev-master": "1.4.x-dev"
+        }
+    }
+}
