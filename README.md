@@ -31,11 +31,11 @@ Only instructions for inclusion of this library using composer are provided. Of 
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/beldougie/ezcomponents-workflow.git"
+            "url": "https://github.com/belsym/ezcomponents-workflow.git"
         }
     ],
     "require": {
-        "belsym\ezcomponents-workflow": "1.4.*@dev"
+        "belsym/ezcomponents-workflow": "1.4.*@dev"
     }
 }
 ```
